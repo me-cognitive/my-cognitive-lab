@@ -5,8 +5,6 @@ Welcome to Me-Cognitive AI Lab, a collection of personal projects exploring the 
 
 A comprehensive monitoring system designed for secure online sessions including exams, interviews, and assessments. The application provides multiple layers of detection to ensure session integrity against almost all avaiable AI Tools.
 
-# 🛡️ Anti-AI Cheating
-
 [![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/anti-ai-cheating?tab=readme-ov-file#️-no-installation-required)
 
 

@@ -1,7 +1,7 @@
 # me-cognitive-lab
 Welcome to Me-Cognitive AI Lab, a collection of personal projects exploring the capabilities of intelligent agents, machine learning models, and AI-driven tools. This repository serves as a documentation and overview hub—showcasing the ideas, architecture, and insights behind my AI experiments, without exposing the underlying source code.
 
-# Anti-Cheating Monitor Application
+# Anti-AI-Cheating Monitor Application
 
 A comprehensive monitoring system designed for secure online sessions including exams, interviews, and assessments. The application provides multiple layers of detection to ensure session integrity against almost all avaiable AI Tools.
 

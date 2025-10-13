@@ -11,7 +11,7 @@ A comprehensive monitoring system designed for secure online sessions including 
 
 Performed a complete transformation and rebranding of a paid cross-platform desktop application originally requiring a **$20/month subscription**, converting it into a **fully self-managed, cost-free version** through reverse engineering and custom integration work.
 
-[![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.electron-application-transformation.md)
+[![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.electron-application-transformation.md#-achievements)
 
 
 # VoiceBridge - Multilingual LIVE Audio-to-Audio Translation Platform

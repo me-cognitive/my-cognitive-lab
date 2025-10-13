@@ -1,29 +1,82 @@
-# my-cognitive-lab
-Welcome to My-Cognitive AI Lab, a collection of personal projects exploring the capabilities of intelligent agents, machine learning models, and AI-driven tools. This repository serves as a documentation and overview hub—showcasing the ideas, architecture, and insights behind my AI experiments, without exposing the underlying source code.
+<div align="center">
 
-# Anti-AI-Cheating Monitor Application
+👨‍💻 **Author:** Ashish Tiwari  
+📅 **Last Updated:** October 2025  
+📫 **Contact:** [me.cognitive@gmail.com](mailto:me.cognitive@gmail.com)
+📫 **Personal Contact:** [ashish.epost@gmail.com](mailto:ashish.epost@gmail.com)
+</div>
 
-A comprehensive monitoring system designed for secure online sessions including exams, interviews, and assessments. The application provides multiple layers of detection to ensure session integrity against almost all avaiable AI Tools.
+<div align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="100" height="100" alt="AI Lab Icon"/>
+
+# 🧠 My-Cognitive Lab
+**A personal AI laboratory of experiments, transformations, and intelligent tools.**
+
+Welcome to **My-Cognitive AI Lab**, a curated collection of personal projects exploring the boundaries of **intelligent systems**, **AI integrations**, and **machine learning-driven automation**.  
+This repository serves as a **documentation and showcase hub**—highlighting architecture, insights, and development approaches without exposing full source code.
+
+</div>
+
+---
+
+## 🧩 Featured Projects
+
+---
+
+### 🔒 Anti-AI-Cheating Monitor Application
+
+A comprehensive **real-time monitoring system** designed for **secure online sessions**—including exams, interviews, and assessments.  
+It provides multi-layered detection against **AI-assisted cheating tools**, ensuring fairness and authenticity in live sessions.
 
 [![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/anti-ai-cheating?tab=readme-ov-file#️-no-installation-required)
 
-# Electron Application Transformation (Reverse Engineering Project)
+---
 
-Performed a complete transformation and rebranding of a paid cross-platform desktop application originally requiring a **$20/month subscription**, converting it into a **fully self-managed, cost-free version** through reverse engineering and custom integration work.
+### ⚙️ Electron Application Transformation (Reverse Engineering Project)
 
-[![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.electron-application-transformation.md#-achievements)
+Performed a complete **transformation and rebranding** of a commercial cross-platform desktop app originally requiring a **$20/month subscription**, converting it into a **fully self-managed, cost-free version**.  
+Reverse-engineered all core systems, integrated direct AI APIs, and replaced paid intermediary services with self-owned implementations.
 
+- Re-engineered AI integrations: **AssemblyAI**, **Deepgram**, **Gladia**, and **OpenAI**  
+- Converted from licensed → **fully local and free**  
+- Enhanced UI/UX, performance, and accessibility  
+- Authored a full technical transformation document  
 
-# VoiceBridge - Multilingual LIVE Audio-to-Audio Translation Platform
+[![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README_System_Finder_Transformation.md#-achievements)
 
-VoiceBridge is a comprehensive real-time speech translation platform designed to bridge language gaps during live audio conversations. It performs speech recognition, translation, and text-to-speech synthesis to enable seamless multilingual communication, with specialized support for Indian languages.
+---
 
-[![Status](https://img.shields.io/badge/Status-IN--PROGRESS-yellow?style=flat-square)](https://github.com/me-cognitive/voice-bridge) 🛠️ Currently exploring better **VoIP hardware** options.
+### 🌐 VoiceBridge - Multilingual LIVE Audio-to-Audio Translation Platform
 
+**VoiceBridge** enables **live speech translation** between multiple languages, allowing real-time audio conversations with automatic **speech recognition**, **translation**, and **speech synthesis**.  
+Optimized for **Indian languages** and local accents, with support for cross-language dialogues.
 
-# [Small Utility]Mathpix PDF to DOCX Converter
+[![Status](https://img.shields.io/badge/Status-IN--PROGRESS-yellow?style=flat-square)](https://github.com/me-cognitive/voice-bridge) 🛠️  
+_Currently testing improved **VoIP hardware** and latency optimization._
 
-A Windows desktop application that converts PDF files to DOCX format using the Mathpix API. Features a clean, user-friendly interface with real-time conversion status and usage tracking.
+---
+
+### 🧮 [Small Utility] Mathpix PDF → DOCX Converter
+
+A Windows desktop tool that converts **PDF files into editable DOCX** using OCR and Mathpix APIs.  
+Includes a simple interface, real-time progress tracking, and offline caching for performance.
 
 [![Status](https://img.shields.io/badge/Status-WORKING-brightgreen?style=flat-square)](https://github.com/me-cognitive/mathpix-pdf-converter)
+
+---
+
+## 🧠 About This Lab
+
+This repository documents my journey through:
+- **Reverse Engineering & Code Transformation**
+- **Real-Time AI Transcription & Translation**
+- **Secure System Design**
+- **Cross-Platform Desktop Development**
+- **API Architecture & Automation**
+
+Each project reflects **hands-on learning** and **innovation through experimentation** — a true cognitive lab for modern AI engineering.
+
+---
+
 

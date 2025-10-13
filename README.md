@@ -12,18 +12,24 @@
 
 ---
 
+<div align="center">
+
 ## 🧠 About This Lab
 
-This repository documents my journey through:
-**Reverse Engineering & Code Transformation**
-**Real-Time AI Transcription & Translation**
-**Secure System Design**
-**Cross-Platform Desktop Development**
+This repository documents my journey through  
+**Reverse Engineering & Code Transformation**  
+**Real-Time AI Transcription & Translation**  
+**Secure System Design**  
+**Cross-Platform Desktop Development**  
 **API Architecture & Automation**
 
-Each project reflects **hands-on learning** and **innovation through experimentation** — a true cognitive lab for modern AI engineering.
+Each project reflects **hands-on learning** and **innovation through experimentation** —  
+a true cognitive lab for modern AI engineering.
+
+</div>
 
 ---
+
 
 # 🧠 My-Cognitive Lab
 **A personal AI laboratory of experiments, transformations, and intelligent tools.**

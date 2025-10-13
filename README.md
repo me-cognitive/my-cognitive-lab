@@ -10,6 +10,21 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="100" height="100" alt="AI Lab Icon"/>
 
+---
+
+## 🧠 About This Lab
+
+This repository documents my journey through:
+- **Reverse Engineering & Code Transformation**
+- **Real-Time AI Transcription & Translation**
+- **Secure System Design**
+- **Cross-Platform Desktop Development**
+- **API Architecture & Automation**
+
+Each project reflects **hands-on learning** and **innovation through experimentation** — a true cognitive lab for modern AI engineering.
+
+---
+
 # 🧠 My-Cognitive Lab
 **A personal AI laboratory of experiments, transformations, and intelligent tools.**
 
@@ -63,20 +78,5 @@ A Windows desktop tool that converts **PDF files into editable DOCX** using OCR 
 Includes a simple interface, real-time progress tracking, and offline caching for performance.
 
 [![Status](https://img.shields.io/badge/Status-WORKING-brightgreen?style=flat-square)](https://github.com/me-cognitive/mathpix-pdf-converter)
-
----
-
-## 🧠 About This Lab
-
-This repository documents my journey through:
-- **Reverse Engineering & Code Transformation**
-- **Real-Time AI Transcription & Translation**
-- **Secure System Design**
-- **Cross-Platform Desktop Development**
-- **API Architecture & Automation**
-
-Each project reflects **hands-on learning** and **innovation through experimentation** — a true cognitive lab for modern AI engineering.
-
----
 
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-👨‍💻 **Author:** Ashish Tiwari  
-📅 **Last Updated:** October 2025  
-📫 **Contact:** [me.cognitive@gmail.com](mailto:me.cognitive@gmail.com)
+**Author:** Ashish Tiwari  
+**Last Updated:** October 2025  
+**Contact:** [me.cognitive@gmail.com](mailto:me.cognitive@gmail.com)
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## 🧠 About This Lab
+## About This Lab
 
 This repository documents my journey through  
 **Reverse Engineering & Code Transformation**  
@@ -30,7 +30,7 @@ a true cognitive lab for modern AI engineering.
 ---
 
 
-# 🧠 My-Cognitive Lab
+# My-Cognitive Lab
 **A personal AI laboratory of experiments, transformations, and intelligent tools.**
 
 Welcome to **My-Cognitive AI Lab**, a curated collection of personal projects exploring the boundaries of **intelligent systems**, **AI integrations**, and **machine learning-driven automation**.  
@@ -40,11 +40,11 @@ This repository serves as a **documentation and showcase hub**—highlighting ar
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 ---
 
-### 🔒 Anti-AI-Cheating Monitor Application
+### Anti-AI-Cheating Monitor Application
 
 A comprehensive **real-time monitoring system** designed for **secure online sessions**—including exams, interviews, and assessments.  
 It provides multi-layered detection against **AI-assisted cheating tools**, ensuring fairness and authenticity in live sessions.
@@ -53,7 +53,7 @@ It provides multi-layered detection against **AI-assisted cheating tools**, ensu
 
 ---
 
-### ⚙️ Electron Application Transformation (Reverse Engineering Project)
+### Electron Application Transformation (Reverse Engineering Project)
 
 Performed a complete **transformation and rebranding** of a commercial cross-platform desktop app originally requiring a **$20/month subscription**, converting it into a **fully self-managed, cost-free version**.  
 Reverse-engineered all core systems, integrated direct AI APIs, and replaced paid intermediary services with self-owned implementations.
@@ -67,7 +67,7 @@ Reverse-engineered all core systems, integrated direct AI APIs, and replaced pai
 
 ---
 
-### 🌐 VoiceBridge - Multilingual LIVE Audio-to-Audio Translation Platform
+### VoiceBridge - Multilingual LIVE Audio-to-Audio Translation Platform
 
 **VoiceBridge** enables **live speech translation** between multiple languages, allowing real-time audio conversations with automatic **speech recognition**, **translation**, and **speech synthesis**.  
 Optimized for **Indian languages** and local accents, with support for cross-language dialogues.
@@ -77,7 +77,7 @@ _Currently testing improved **VoIP hardware** and latency optimization._
 
 ---
 
-### 🧮 [Small Utility] Mathpix PDF → DOCX Converter
+### [Small Utility] Mathpix PDF → DOCX Converter
 
 A Windows desktop tool that converts **PDF files into editable DOCX** using OCR and Mathpix APIs.  
 Includes a simple interface, real-time progress tracking, and offline caching for performance.

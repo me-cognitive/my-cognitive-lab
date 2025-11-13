@@ -3,7 +3,6 @@
 👨‍💻 **Author:** Ashish Tiwari  
 📅 **Last Updated:** October 2025  
 📫 **Contact:** [me.cognitive@gmail.com](mailto:me.cognitive@gmail.com)
-📫 **Personal Contact:** [ashish.epost@gmail.com](mailto:ashish.epost@gmail.com)
 </div>
 
 <div align="center">

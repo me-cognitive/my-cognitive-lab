@@ -53,17 +53,17 @@ It provides multi-layered detection against **AI-assisted cheating tools**, ensu
 
 ---
 
-### Electron Application Transformation (Reverse Engineering Project)
+### System Finder — AI Assistant for Live Calls
 
-Performed a complete **transformation and rebranding** of a commercial cross-platform desktop app originally requiring a **$20/month subscription**, converting it into a **fully self-managed, cost-free version**.  
-Reverse-engineered all core systems, integrated direct AI APIs, and replaced paid intermediary services with self-owned implementations.
+A real-time AI assistant that runs alongside any live call, meeting, or interview — listening, transcribing, and surfacing contextual AI help without interrupting the conversation.  
+Independently owned product with its own infrastructure and pricing model: a **one-time purchase**, no subscription — users bring their own OpenAI and Deepgram API keys.
 
-- Re-engineered AI integrations: **AssemblyAI**, **Deepgram**, **Gladia**, and **OpenAI**  
-- Converted from licensed → **fully local and free**  
-- Enhanced UI/UX, performance, and accessibility  
-- Authored a full technical transformation document  
+- Live transcript (Deepgram) + AI-powered Live Insights layer
+- Smart Profile Generator: turns a resume/document into a tailored assistant profile
+- Own Cloudflare edge relay for blocked corporate networks
+- Self-updating, cross-platform (Windows + macOS)
 
-[![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README_System_Finder_Transformation.md#-achievements)
+[![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.system-finder.md#-why-system-finder)
 
 ---
 

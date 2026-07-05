@@ -29,24 +29,35 @@ Where competing tools in this space charge a recurring subscription, System Find
 
 ## 💰 Why System Finder
 
-Every comparable tool in this category runs on a recurring subscription. System Finder doesn't.
+Almost every comparable tool in this category runs on a recurring subscription — and keeps billing every month whether you open the app or not. System Finder doesn't.
 
-| Tool | One-Time Purchase | Subscription Required |
-|---|:---:|:---:|
-| **System Finder** | ✅ **$200 (one-time)** | ❌ Not required |
-| Cluely | ❌ Not available | ✅ Included |
-| ShadeCoder | ❌ Not available | ✅ Included |
-| LockedIn AI | ❌ Not available | ✅ Included |
-| Final Round AI | ❌ Not available | ✅ Included |
-| Interview Sidekick | ❌ Not available | ✅ Included |
-| Saner AI | ❌ Not available | ✅ Included |
-| Interview Coder | ❌ Not available | ✅ Included |
-| Leetcode Wizard | ❌ Not available | ✅ Included |
-| OfferGenie | ❌ Not available | ✅ Included |
-| Interview Hammer AI | ❌ Not available | ✅ Included |
-| Flowming AI | ❌ Not available | ✅ Included |
+*Pricing below reflects each vendor's standard month-to-month rate (not annual/promo-discounted), checked July 2026 — subscription pricing changes often, so verify on the vendor's own site before quoting it elsewhere.*
 
-Pay once, plug in your own OpenAI + Deepgram keys, and the only ongoing cost is direct API usage — no markup, no monthly fee, no vendor lock-in.
+| Tool | Starting Monthly Price | 6-Month Cost | Break-even vs. System Finder's $200 | Billed If Unused? |
+|---|---:|---:|:---:|:---:|
+| **System Finder** | **$0** (just your own API usage) | **$200 total, ever** | — | ❌ Never |
+| Cluely | $19.99 (up to $149.99 for the undetectable tier) | ~$120 (up to ~$900) | ~10 months | ✅ Yes |
+| ShadeCoder | $29 | ~$174 | ~7 months | ✅ Yes |
+| LockedIn AI | $35 (up to $148 unlimited) | ~$210 (up to ~$888) | ~6 months | ✅ Yes |
+| Final Round AI | $149 | ~$894 | ~1.3 months | ✅ Yes |
+| Interview Sidekick | $60 (standard rate listed up to $80) | ~$360 (up to ~$480) | ~3.3 months | ✅ Yes |
+| Saner AI¹ | $12 (Standard $20) | ~$72 (up to ~$120) | ~17 months | ✅ Yes |
+| Interview Coder² | $299 (or $799 as a separate lifetime purchase) | ~$1,794 | <1 month | ✅ Yes, unless the $799 lifetime tier is bought instead |
+| Leetcode Wizard | ~$58 (€49) | ~$348 | ~3.4 months | ✅ Yes |
+| OfferGenie³ | $99.99 (or pay-as-you-go credits from $29, non-expiring) | ~$600 (subscription route) | ~2 months | ✅ Yes on the subscription plan |
+| Interview Hammer AI | $29.99 | ~$180 | ~6.7 months | ✅ Yes |
+| Flowming AI | Pricing not publicly listed | — | — | — |
+
+¹ Saner AI is a general AI productivity/notes assistant rather than a live-call copilot — included for completeness since it was part of the original comparison set.  
+² Interview Coder also sells a $799 one-time lifetime pass — real, but 4x System Finder's price for the same "no subscription" outcome.  
+³ OfferGenie also offers one-time credit packs — cheaper up front, but credits deplete and need topping up, unlike a flat one-time purchase.
+
+**The core difference isn't just the sticker price:**
+
+- **You pay whether you use it or not.** Every tool above bills monthly regardless of whether you had a single call that month. System Finder is paid once — using it every day or once a year costs the same $0 in software fees.
+- **No markup on AI usage.** Subscription tiers bundle in a marked-up allowance of OpenAI/Deepgram usage. System Finder passes your own API keys straight through — you pay the provider's real rate, nothing on top.
+- **No lock-in.** Cancel a subscription and access stops immediately, including to your own past sessions in some tools. System Finder keeps working indefinitely once purchased — there's nothing to cancel and nothing that expires.
+- **Predictable long-term cost.** Every subscription in this table costs more than $200 within 7 months at most (several within weeks). Past that point, System Finder is strictly cheaper for as long as you keep using it.
 
 ---
 

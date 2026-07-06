@@ -44,10 +44,16 @@ This repository serves as a **documentation and showcase hub**—highlighting ar
 
 ---
 
-### Anti-AI-Cheating Monitor Application
+### Anti-AI-Cheating Monitor Application — [Work vs Hype](https://workvshype.com/)
 
 A comprehensive **real-time monitoring system** designed for **secure online sessions**—including exams, interviews, and assessments.  
-It provides multi-layered detection against **AI-assisted cheating tools**, ensuring fairness and authenticity in live sessions.
+It provides multi-layered detection against **AI-assisted cheating tools**, ensuring fairness and authenticity in live sessions. Built for hiring teams, educators, and assessment platforms that need to tell a genuine, unaided answer apart from one quietly fed by an AI copilot in the background — the same category of tool this monitor is designed to catch.
+
+- Real-time integrity monitoring during live interviews and exams
+- Multi-layered detection tuned against AI-assisted cheating tools
+- Aimed at hiring teams and institutions that need trustworthy, verifiable live sessions
+
+**Website:** [workvshype.com](https://workvshype.com/)
 
 [![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/anti-ai-cheating?tab=readme-ov-file#️-no-installation-required)
 
@@ -58,10 +64,13 @@ It provides multi-layered detection against **AI-assisted cheating tools**, ensu
 A real-time AI assistant that runs alongside any live call, meeting, or interview — listening, transcribing, and surfacing contextual AI help without interrupting the conversation.  
 Independently owned product with its own infrastructure and pricing model: a **one-time purchase**, no subscription — users bring their own OpenAI and Deepgram API keys.
 
-- Live transcript (Deepgram) + AI-powered Live Insights layer
-- Smart Profile Generator: turns a resume/document into a tailored assistant profile
-- Own Cloudflare edge relay for blocked corporate networks
+- Live transcript (Deepgram) + AI-powered Live Insights layer (*"What should I say next?"*, follow-up suggestions, fact-checking)
+- Smart Profile Generator: turns a resume/document into a tailored assistant profile for any profession
+- Own Cloudflare edge relay for blocked corporate networks, sub-20ms latency across 200+ cities
 - Self-updating, cross-platform (Windows + macOS)
+- **$200 once** vs. competitors like Cluely, Final Round AI, and Interview Coder charging $20–$300 *every month* — see the [full pricing breakdown](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.system-finder.md#-why-system-finder)
+
+**Website:** [systemfinderapi.com](https://www.systemfinderapi.com/)
 
 [![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.system-finder.md#-why-system-finder)
 

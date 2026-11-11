@@ -1,7 +1,7 @@
 <div align="center">
 
 **Author:** Ashish Tiwari  
-**Last Updated:** October 2025  
+**Last Updated:** November 2026  
 **Contact:** [me.cognitive@gmail.com](mailto:me.cognitive@gmail.com)
 </div>
 
@@ -71,8 +71,36 @@ Independently owned product with its own infrastructure and pricing model: a **o
 - **$200 once** vs. competitors like Cluely, Final Round AI, and Interview Coder charging $20–$300 *every month* — see the [full pricing breakdown](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.system-finder.md#-why-system-finder)
 
 **Website:** [systemfinderapi.com](https://www.systemfinderapi.com/)
+**Comes with:** [Job Applicator](#-job-applicator--included-free-with-system-finder) — a second app, free on the same licence
 
 [![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.system-finder.md#-why-system-finder)
+
+---
+
+### ⭐ Job Applicator — Included Free With System Finder
+
+A Windows app that **finds good-fit jobs, applies at a human pace, and reports every run.**
+It is the companion to System Finder and runs on the **same licence the user already owns**, on the
+computer where System Finder is activated — no extra purchase, no second key, no separate sign-in.
+
+Built as the deliberate opposite of a spray-and-pray auto-apply bot: low volume, full disclosure of
+every action, and no guessing on the user's behalf.
+
+- **Runs the user's own browser** — drives their existing Chrome or Edge with their own job-site login; it never sees or stores their password
+- **Private by default** — profile, resume and run history stay in `%APPDATA%\JobApplicator\` on the user's PC
+- **Human pace, on purpose** — ~20 applications a day, randomised pauses, and a hard stop at any captcha or quota page
+- **A report for every run** — applied, needs you, skipped and why, plus keywords recruiters asked for that the resume never mentions
+- **It never guesses** — unanswerable screening questions go to a Questions screen; answer once and matching jobs are retried
+- **Licence-gated at runtime** — signature, machine fingerprint, expiry, revocation list and a short-lived server-signed pass; one activated machine, and no second key is ever issued
+
+*Honest caveat, kept on the public site too: job portals' terms generally don't allow automated use.
+Low volume and stopping at captchas reduces the risk of an account flag, but does not remove it.*
+
+**Download:** [JobApplicator.exe](https://pub-6e55e125512d46ae8b9465275c991c79.r2.dev/bundles-2026/job-applicator/JobApplicator.exe) · Windows, ~19 MB, v1.0.0
+**Details:** [README.job-applicator.md](README.job-applicator.md) · **Website:** [systemfinderapi.com](https://www.systemfinderapi.com/#job-applicator)
+
+[![Status](https://img.shields.io/badge/Status-WORKING--ONLINE-brightgreen?style=flat-square)](https://github.com/me-cognitive/my-cognitive-lab/blob/main/README.job-applicator.md)
+[![Price](https://img.shields.io/badge/Price-FREE%20WITH%20SYSTEM%20FINDER-blue?style=flat-square)](https://www.systemfinderapi.com/#job-applicator)
 
 ---
 
